@@ -1,0 +1,19 @@
+<clientes>
+    <cliente id="1">
+        <nombre>juan</nombre>
+        <apellido>perez</apellido>
+        <telefono>99139231</telefono>
+    </cliente>
+    <cliente id="2">
+        <nombre>Mar</nombre>
+        <apellido>Lope</apellido>
+        <telefono>12341</telefono>
+    </cliente>
+    <cliente id="3">
+        <nombre>Iñigo</nombre>
+        <apellido>puñeto</apellido>
+        <telefono>994131</telefono>
+    </cliente>
+
+
+</clientes>
